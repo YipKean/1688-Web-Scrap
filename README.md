@@ -1,4 +1,4 @@
-# 1688 Auto Scraping (Still work in progress)
+# 1688 Scraping (Still work in progress)
 
 This project automates the process of scraping product information from 1688.com using Puppeteer. It searches for specified keywords, collects product URLs, and scrapes details like price, reviews, and ratings.
 
