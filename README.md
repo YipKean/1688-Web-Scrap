@@ -14,6 +14,7 @@ This project automates the process of scraping product information from 1688.com
 - Puppeteer
 - Puppeteer-extra
 - Puppeteer-extra-plugin-stealth
+- ExcelJS
 
 ## Installation
 
