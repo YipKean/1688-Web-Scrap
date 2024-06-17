@@ -27,6 +27,7 @@ This project automates the process of scraping product information from 1688.com
 2. Install the dependencies:
     ```bash
     npm install puppeteer puppeteer-extra puppeteer-extra-plugin-stealth
+    npm install exceljs
     ```
 
 ## Configuration
